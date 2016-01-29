@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\bin\Debug\WaddleVillage Server.exe
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\bin\Debug\WaddleVillage Server.pdb
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\obj\x86\Debug\WaddleVillage Server.exe
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\obj\x86\Debug\WaddleVillage Server.pdb
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\bin\Debug\WaddleVillage Server.exe.manifest
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\bin\Debug\WaddleVillage Server.application
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\obj\x86\Debug\WaddleVillage Server.exe.manifest
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Server\WaddleVillage Server\obj\x86\Debug\WaddleVillage Server.application
+C:\Users\Lucas\Documents\WaddleVillage\Public Domain Package\servers\game\obj\x86\Debug\WaddleVillage Server.exe
+C:\Users\Lucas\Documents\WaddleVillage\Public Domain Package\servers\game\obj\x86\Debug\WaddleVillage Server.pdb

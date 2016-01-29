@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Master Server\WaddleVillage Master Server\bin\Debug\WaddleVillage Master Server.exe
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Master Server\WaddleVillage Master Server\bin\Debug\WaddleVillage Master Server.pdb
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Master Server\WaddleVillage Master Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Master Server\WaddleVillage Master Server\obj\x86\Debug\WaddleVillage Master Server.exe
+C:\Users\Lucas\Documents\Visual Studio 2010\Projects\WaddleVillage Master Server\WaddleVillage Master Server\obj\x86\Debug\WaddleVillage Master Server.pdb
+C:\Users\Lucas\Documents\WaddleVillage\Public Domain Package\servers\master\obj\x86\Debug\WaddleVillage Master Server.exe
+C:\Users\Lucas\Documents\WaddleVillage\Public Domain Package\servers\master\obj\x86\Debug\WaddleVillage Master Server.pdb
